@@ -1,20 +1,20 @@
 # Site title
-title: Crossing
+title: AR-Notes
 
 # Tagline below the site title on post list pages
-tagline: Thoughts, stories and ideas.
+tagline: Blu blu blubediblu
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description:
+description: calaoaldo
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://barepants.github.io"
+url: "https://florinschwappach.github.io/blog/"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: "/crossing-jekyll"
+baseurl: "/blog"
 
 # The site cover image on the home page
-image: /crossing-jekyll/images/site-image.jpg
+image: /blog/images/site-image.jpg
 
 # The shortname for your Disqus site to enable comments
 disqus_shortname:
@@ -26,17 +26,17 @@ google_analytics_tracking_id:
 # Site navigation
 nav:
   - title: "Home"
-    url:   "/crossing-jekyll/"
+    url:   "/blog/"
   - title: "Github"
-    url:   "https://github.com/barepants/crossing-jekyll"
+    url:   "https://github.com/FlorinSchwappach/blog"
 
 
 # The links in the site footer
 footer_links:
   - title: "RSS"
-    url:   "/crossing-jekyll/feed.xml"
+    url:   "/blog/feed.xml"
   - title: "GitHub"
-    url:   "https://github.com/barepants/crossing-jekyll"
+    url:   "https://github.com/FlorinSchwappach/blog"
 
 
 # Author information
@@ -45,7 +45,7 @@ authors:
     name: John Doe
     website: https://github.com/barepants
     bio: An awesome bio # Author info at bottom of post only shows if bio exists
-    avatar: /crossing-jekyll/images/avatar.jpg
+    avatar: /blog/images/avatar.jpg
   lewiscarroll:
     name: Lewis Carroll
 
